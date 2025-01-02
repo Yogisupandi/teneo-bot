@@ -1,4 +1,10 @@
-ip:port
-username:password@ip:port
-http://ip:port
-http://username:password@ip:port
+asg.360s5.com:3600@21773547-zone-custom-region-ID-sessid-tgmc8j8J-sessTime-120:r2r15Tk0
+asg.360s5.com:3600@21773547-zone-custom-region-ID-sessid-JWiw2Z6C-sessTime-120:r2r15Tk0
+asg.360s5.com:3600@21773547-zone-custom-region-ID-sessid-BFS2CzP6-sessTime-120:r2r15Tk0
+asg.360s5.com:3600@21773547-zone-custom-region-ID-sessid-YkXu7PBd-sessTime-120:r2r15Tk0
+asg.360s5.com:3600@21773547-zone-custom-region-ID-sessid-QCQAktgW-sessTime-120:r2r15Tk0
+asg.360s5.com:3600@21773547-zone-custom-region-ID-sessid-NJGXB5U5-sessTime-120:r2r15Tk0
+asg.360s5.com:3600@21773547-zone-custom-region-ID-sessid-eN5c12Sx-sessTime-120:r2r15Tk0
+asg.360s5.com:3600@21773547-zone-custom-region-ID-sessid-vr7yK5hp-sessTime-120:r2r15Tk0
+asg.360s5.com:3600@21773547-zone-custom-region-ID-sessid-QMwzUxZs-sessTime-120:r2r15Tk0
+asg.360s5.com:3600@21773547-zone-custom-region-ID-sessid-7MjiJxOM-sessTime-120:r2r15Tk0
